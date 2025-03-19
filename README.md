@@ -19,8 +19,8 @@
 ## 🚀 About Me
 - 🔭 I’m currently working on **AI/IoT project**
 - 🌱 I’m learning **AI/ML**
-- 💬 Ask me about **Coffee with code**
-- 📫 Reach me at **[Your Email](mailto:pareeshpareesh421@gmail.com)**
+- 💬 Ask me about **Coffee with Code**
+- 📫 Reach me at **[pareeshpareesh421@gmail.com](mailto:pareeshpareesh421@gmail.com)**
 - 🏆 Fun fact: **🤖 Did you know the first computer “bug” was a real bug? 🦋 In 1947, a moth got stuck in a Harvard Mark II computer, causing an error.**
 
 ---
