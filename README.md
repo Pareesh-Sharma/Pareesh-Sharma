@@ -35,14 +35,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pareesh-Sharma&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pareesh-Sharma&theme=radical" alt="GitHub Streak" height="165" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pareesh-Sharma&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies">
 </p>
 
 ---
