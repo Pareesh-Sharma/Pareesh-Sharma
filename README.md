@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/Pareesh-Sharma/Pareesh-Sharma/blob/main/pareesh-header-image.png" alt="Banner" width="100%" />
+  <img src="https://github.com/Pareesh-Sharma/Pareesh-Sharma/blob/main/final-github-header-image.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Pareesh Sharma 👋</h1>
