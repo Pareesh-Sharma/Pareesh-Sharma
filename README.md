@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **AI/IoT project**
+- 🔭 I’m currently working on **AI/ML projects**
 - 🌱 I’m learning **AI/ML**
 - 💬 Ask me about **Coffee with Code**
 - 📫 Reach me at **[pareeshpareesh421@gmail.com](mailto:pareeshpareesh421@gmail.com)**
